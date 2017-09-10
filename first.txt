@@ -1,2 +1,20 @@
 this is my first devops project 
 done by mangulal
+ownloading Git
+Your download is starting...
+You are downloading the latest (2.14.1) 64-bit version of Git for Windows. This is the most recent maintained build. It was released about 1 month ago, on 2017-08-10.
+
+If your download hasn't started, click here to download manually.
+
+Other Git for Windows downloads
+Git for Windows Setup
+32-bit Git for Windows Setup.
+
+64-bit Git for Windows Setup.
+
+Git for Windows Portable ("thumbdrive edition")
+32-bit Git for Windows Portable.
+
+64-bit Git for Windows Portable.
+
+The current source code release is version 2.14.1. 
